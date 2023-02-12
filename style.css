@@ -2,7 +2,11 @@
   display: none	
 }
 
-
+.troubleshooting1 {
+  border: 10px ridge green;
+  background-color: #333;
+  color: #ccc;
+}
 
 a:link, a:visited {
   border: 10px ridge #005577;

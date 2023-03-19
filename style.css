@@ -22,7 +22,7 @@ a:hover, a:active {
   border: 10px groove green;
   background-color: green;
 }
-.body {
+body {
   width: 98%;
   height: 100%;
   border: 10px ridge yellow;

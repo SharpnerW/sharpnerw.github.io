@@ -33,18 +33,23 @@ body {
 }
 
 
-.MainMessage1 {
+.MainTitle1 {
   width: 100%
   height: 100%
   border: 10px ridge orange;
   background-color: #0f0;
   color: #079;
   text-align: center;
-  font: 1em Futura;
+  font: 4em Futura;
 }
 
-.messagelore {
+.MainMessageLore1 {
   background-color: orange;
   color: #075;
   text-align: left;
+}
+
+.StoryTellingNormal {
+  color: #079;
+  font-size: 11px;
 }
